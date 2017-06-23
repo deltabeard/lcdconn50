@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name lcdconn50lib)(type KiCad)(uri "$(KIPRJMOD)/lcdconn50lib.pretty")(options "")(descr ""))
+)
