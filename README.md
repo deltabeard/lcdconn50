@@ -5,4 +5,4 @@ FM](http://www.startek-lcd.com/res/starteklcd/pdres/201303/20130329093105640.pdf
 
 Uses CC-BY-SA-4.0 license. See the LICENSE file for more information.
 
-![Preview of the PCB](https://github.com/deltabeard/lcdconn50/raw/master/out/preview-board.png)
+![Preview of the PCB](https://github.com/deltabeard/lcdconn50/raw/master/out/lcdconn50.png)
