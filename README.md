@@ -1,5 +1,7 @@
 # lcdconn50
 
+## Note: Don't use this just yet! It has a lot of issues.
+
 Raspberry Pi Breakout Board for a 50 Pin LCD Connector ([KD026
 FM](http://www.startek-lcd.com/res/starteklcd/pdres/201303/20130329093105640.pdf)).
 
